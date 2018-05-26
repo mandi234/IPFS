@@ -1,0 +1,3 @@
+﻿  Broadcast.cpp
+c:\users\mando\source\repos\tcpserver\tcpserver\broadcast.cpp(44): warning C4715: 'Broadcast::sendBroadcast': not all control paths return a value
+  TCPServer.vcxproj -> C:\Users\Mando\source\repos\TCPServer\Debug\TCPServer.exe
